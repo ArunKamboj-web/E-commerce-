@@ -1,0 +1,38 @@
+.containerC{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    /* border:2px solid red; */
+    height: 70vh;
+    width: 100vw;
+}
+.heading{
+    text-align: center;
+    margin-top: 15px;
+}
+.image{
+    height: 300px;
+    width: 350px;
+    /* border:2px solid blue; */
+}
+.btn{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:5vh;
+    width:20vw;
+}
+.button{
+    cursor: pointer;
+    background-color: #2596be;
+    color:white;
+    border-color:transparent ;
+    height:4vh;
+    width:13.5vw;
+    border-radius: 14px;
+}
+.desc{
+    width:250px;
+}
